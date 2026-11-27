@@ -5,7 +5,7 @@
 
 ## Contexto
 
-Rede social vazia não retém ninguém. A Colmeia precisa de acervo no primeiro dia, sem pedir que pesquisadores digitem tudo do zero.
+Rede social vazia não retém ninguém. A ColmeiaLab precisa de acervo no primeiro dia, sem pedir que pesquisadores digitem tudo do zero.
 
 ## Decisão
 

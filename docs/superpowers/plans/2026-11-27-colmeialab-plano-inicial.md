@@ -1,8 +1,8 @@
-# Plano inicial da Colmeia
+# Plano inicial da ColmeiaLab
 
 > **Para agentes:** SUB-SKILL OBRIGATÓRIA: use `superpowers:subagent-driven-development` (recomendado) ou `superpowers:executing-plans` para executar este plano tarefa a tarefa. Os passos usam caixas (`- [ ]`) para acompanhamento.
 
-**Objetivo:** entregar o MVP web da Colmeia, com comunidades, publicações com fonte e Mel, feed, reação Mel, Néctar e moderação.
+**Objetivo:** entregar o MVP web da ColmeiaLab, com comunidades, publicações com fonte e Mel, feed, reação Mel, Néctar e moderação.
 
 **Arquitetura:** monorepo TypeScript com API Express, banco PostgreSQL via Prisma, frontend React com Vite e pacote compartilhado de tipos e validações. Autenticação por JWT, com senha em Argon2. O motor de anúncios do MVP é manual, com inventário e métricas, sem leilão automático.
 
@@ -41,7 +41,7 @@ Estas são as falhas que o spec implica e que os testes de tarefa precisam cobri
 
 **Passos:**
 
-- [ ] Consultar INPI para Colmeia nas classes 9, 35, 41 e 42.
+- [ ] Consultar INPI para ColmeiaLab nas classes 9, 35, 41 e 42.
 - [ ] Verificar domínios `colmeia.com.br`, `colmeia.app` e `colmeia.social`.
 - [ ] Verificar arroba `@colmeia` nas redes principais.
 - [ ] Registrar resultado, riscos e alternativas no documento.

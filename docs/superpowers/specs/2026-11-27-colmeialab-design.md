@@ -1,8 +1,10 @@
-# Colmeia: design do produto
+# ColmeiaLab: design do produto
 
 **Data:** 2026-11-27
 **Status:** aprovado para planejamento
 **Autor:** Northon Cardoso
+
+**Nota de marca:** a validação da issue #7 recomendou não usar Colmeia isolado. A marca principal passou a ser **ColmeiaLab**, com Colmeia como nome do conceito. Ver o ADR 0001 e `docs/brand/2026-11-27-validacao-marca.md`.
 
 ## 1. Problema
 
@@ -14,7 +16,7 @@ As redes existentes resolvem pedaços do problema. O ResearchGate conecta pesqui
 
 ## 2. Proposta
 
-A Colmeia é uma rede social de divulgação científica com o público leigo no centro. Cada publicação tem duas camadas obrigatórias:
+A ColmeiaLab é uma rede social de divulgação científica com o público leigo no centro. Cada publicação tem duas camadas obrigatórias:
 
 1. **Fonte**: DOI, link para o artigo ou PDF, com metadados.
 2. **Mel**: resumo em linguagem simples, com no máximo 1.500 caracteres, escrito por quem publica e editável pela comunidade com histórico.
@@ -34,7 +36,8 @@ O leitor encontra conteúdo nas **Comunidades** por área do conhecimento ou no 
 
 | Elemento | Decisão |
 | --- | --- |
-| Nome da rede | Colmeia |
+| Nome da rede | ColmeiaLab |
+| Conceito | Colmeia |
 | Logo | Jataí, abelha nativa sem ferrão |
 | Like | Mel |
 | Resumo em linguagem simples | Mel |
@@ -157,7 +160,7 @@ A receita principal vem de anúncios nativos no feed e no Néctar. O modelo é l
 
 Na fase 2 entra assinatura opcional sem anúncios, para leitores. Na fase 3, se validada, taxa de intermediação sobre projetos do Néctar, paga pelo patrocinador, nunca pelo pesquisador.
 
-Princípio comercial: a Colmeia precisa ser lucrativa sem transformar o leitor em produto. Se o anúncio prejudicar a confiança, ele sai.
+Princípio comercial: a ColmeiaLab precisa ser lucrativa sem transformar o leitor em produto. Se o anúncio prejudicar a confiança, ele sai.
 
 ## 11. Métricas
 
