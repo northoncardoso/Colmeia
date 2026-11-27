@@ -1,10 +1,10 @@
-# Colmeia: regras do projeto
+# ColmeiaLab: regras do projeto
 
 ## Contexto
 
-Rede social brasileira de divulgação científica. O público leigo é o centro do produto. Cada publicação tem uma fonte científica e um resumo em linguagem simples chamado Mel. A comunidade de patrocínio se chama Néctar. O logo é a abelha nativa Jataí.
+A ColmeiaLab é uma rede social brasileira de divulgação científica. O público leigo é o centro do produto. Cada publicação tem uma fonte científica e um resumo em linguagem simples chamado Mel. A comunidade de patrocínio se chama Néctar. O logo é a abelha nativa Jataí. Colmeia é o conceito e a metáfora, não a marca isolada.
 
-Repositório: https://github.com/northoncardoso/Colmeia
+Repositório: https://github.com/northoncardoso/ColmeiaLab
 
 ## Skills de processo (superpowers)
 
@@ -58,7 +58,8 @@ Ainda não há código de produto. Quando a Fase 1 começar, este arquivo deve s
 
 ## Glossário
 
-* **Colmeia**: nome da rede social.
+* **ColmeiaLab**: marca e nome da rede social.
+* **Colmeia**: conceito, metáfora e nome do coletivo. Não usar como marca isolada.
 * **Mel**: reação de like e nome do resumo em linguagem simples.
 * **Néctar**: comunidade de patrocínio de projetos científicos.
 * **Jataí**: abelha nativa sem ferrão, símbolo e logo.
