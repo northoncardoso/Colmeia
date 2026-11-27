@@ -4,7 +4,7 @@ Cada ADR registra uma decisão que muda o rumo do projeto. O formato é curto: c
 
 | Número | Título | Status |
 | --- | --- | --- |
-| 0001 | Identidade da marca Colmeia | Aceito |
+| 0001 | Identidade da marca ColmeiaLab | Aceito |
 | 0002 | Público leigo no centro do produto | Aceito |
 | 0003 | Mel como reação única e resumo obrigatório | Aceito |
 | 0004 | Comunidades por área do conhecimento e Néctar separado | Aceito |

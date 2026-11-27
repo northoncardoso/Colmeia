@@ -1,12 +1,13 @@
-# Colmeia
+# ColmeiaLab
 
 Rede social brasileira que transforma pesquisa científica em conteúdo que qualquer pessoa entende.
 
-A Colmeia parte de uma ideia simples: ciência não deve ficar presa no PDF. Cada publicação tem a fonte original e uma camada em linguagem simples, o **Mel**, escrita por quem publica e cuidada pela comunidade. O leitor leigo é o centro do produto, não uma audiência secundária.
+A ColmeiaLab parte de uma ideia simples: ciência não deve ficar presa no PDF. Cada publicação tem a fonte original e uma camada em linguagem simples, o **Mel**, escrita por quem publica e cuidada pela comunidade. O leitor leigo é o centro do produto, não uma audiência secundária.
 
 ## A metáfora
 
-* **Colmeia** é a rede. O lugar onde a comunidade científica e o público trabalham juntos.
+* **ColmeiaLab** é a rede. O laboratório aberto onde a comunidade científica e o público trabalham juntos.
+* **Colmeia** é o conceito. O coletivo que dá nome às comunidades e à metáfora.
 * **Jataí** é o logo. Abelha nativa brasileira, sem ferrão, que coopera e poliniza.
 * **Mel** é o like. A reação de quem entendeu, gostou e quer que aquilo circule.
 * **Néctar** é a comunidade de patrocínio. Onde pesquisadores apresentam projetos e encontram quem queira financiar.
@@ -35,8 +36,9 @@ Planejamento inicial. Ainda não há código de produto. O design está em `docs
 
 ## Documentação
 
-* [Design do produto](docs/superpowers/specs/2026-11-27-colmeia-design.md)
-* [Plano inicial](docs/superpowers/plans/2026-11-27-colmeia-plano-inicial.md)
+* [Design do produto](docs/superpowers/specs/2026-11-27-colmeialab-design.md)
+* [Plano inicial](docs/superpowers/plans/2026-11-27-colmeialab-plano-inicial.md)
+* [Validação de marca](docs/brand/2026-11-27-validacao-marca.md)
 * [Decisões de arquitetura](docs/adr/README.md)
 * [Regras para agentes](AGENTS.md)
 
