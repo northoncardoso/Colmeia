@@ -234,7 +234,7 @@ Lançar com **Colmeia** puro, sem marca composta e sem parecer jurídico. O risc
 
 ## 9. Decisão tomada
 
-A decisão foi tomada em 27/11/2026: a marca principal é **ColmeiaLab**, com Colmeia como conceito. A issue #7 permanece aberta até o merge do PR #30 e a abertura da issue de registro oficial. A identidade visual da issue #8 pode começar com a marca ColmeiaLab.
+A decisão foi tomada em 27/11/2026: a marca principal é **ColmeiaLab**, com Colmeia como conceito. A issue #7 permanece aberta até o merge do PR #30. O registro oficial está na issue #31. A identidade visual da issue #8 pode começar com a marca ColmeiaLab.
 
 ## 10. Verificação de ColmeiaLab
 
